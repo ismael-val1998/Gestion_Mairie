@@ -18,9 +18,3 @@ ORDRE D'EXECUTION
 	1. Classe_Objet.py
 	2. Requetes.py
 	3. graphique.py
-
-
-
-MERCI POUR LE PROJET J'AI VRAIMENT BEAUCOUPS APPRIS
-
-
