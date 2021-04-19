@@ -1,8 +1,7 @@
 INFORMATION CONCERNANT MON TRAVAIL
 
-I. MINI PROJET PYTHON REALISE PAR KOUASSI KOFIE ISMAEL
 
-II. MON DOSSIER COMPORTE 5 FICHIERS :
+LES FICHIERS :
 	1. BASE DE DONNEES (cinema.db)
 	2. CLASSE OBJET (Classe_Objet.py)
 	3. REQUETES (Requetes.py)
@@ -15,7 +14,7 @@ II. MON DOSSIER COMPORTE 5 FICHIERS :
 			avec les saisies effectuées pour les stocké dans la base de donnée
 
 
-III. ORDRE D'EXECUTION
+ORDRE D'EXECUTION
 	1. Classe_Objet.py
 	2. Requetes.py
 	3. graphique.py
